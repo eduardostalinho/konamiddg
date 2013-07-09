@@ -1,0 +1,3 @@
+[submodule "data/konamijs"]
+	path = data/konamijs
+	url = git://github.com/snaptortoise/konami-js.git
